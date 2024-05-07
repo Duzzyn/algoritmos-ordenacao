@@ -1,5 +1,3 @@
-const livros = require("./listaLivros.js")
-
 function menorValor(arrProdutos, posicaoInicial) {
     let maisBarato = posicaoInicial;
     
