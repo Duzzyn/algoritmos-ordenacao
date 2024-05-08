@@ -1,4 +1,4 @@
-function troca(lista, analise) {
+function troca(lista, analise) { // refatoração ins. Sort
     let itemAnalise = lista[analise];
     let itemAnterior = lista[analise - 1];
 
